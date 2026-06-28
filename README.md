@@ -8,6 +8,12 @@ I build things at the intersection of **recommendation systems**, **user growth*
 
 ---
 
+## 🛠 Tech Stack / 技术栈
+
+`Python` `C/C++` `TypeScript` `PyTorch` `Transformers` `Scikit-learn` `XGBoost` `LangChain` `FAISS` `FastAPI` `Electron` `React` `Docker` `Git`
+
+---
+
 ## 🔬 Research / 科研经历
 
 **LLM-Enhanced Recommendation with P5 + Reinforcement Learning + Memory** `2025.5–至今`
@@ -124,12 +130,6 @@ I build things at the intersection of **recommendation systems**, **user growth*
 | **CUMCM 2025** | IRODDPSO + constrained KMeans clustering + Monte Carlo error analysis. / 改进 IRODDPSO 粒子群优化算法，实现医学约束 K-means 聚类，完成蒙特卡洛模拟误差分析。 |
 | **Lanqiao Cup 2025** | C/C++ track, Provincial Second Prize. / 蓝桥杯全国软件和信息技术专业人才大赛 C/C++ 赛道，省级二等奖。 |
 | **NCCCC 2025** | Deep learning for flower recognition (Transformer + CNN). / 第七届全国高校计算机能力挑战赛-大数据挑战赛，使用 Transformer 及 CNN 进行花卉识别。 |
-
----
-
-## 🛠 Tech Stack / 技术栈
-
-`Python` `C/C++` `TypeScript` `PyTorch` `Transformers` `Scikit-learn` `XGBoost` `LangChain` `FAISS` `FastAPI` `Electron` `React` `Docker` `Git`
 
 ---
 
