@@ -123,4 +123,4 @@ Three-layer architecture: RAG (Sentence-Transformers + FAISS) → DeepSeek candi
 
 技术交流/闲聊群如下：
 
-![群二维码](二维码.jpg)
+<img src="二维码.jpg" alt="群二维码" width="300">
