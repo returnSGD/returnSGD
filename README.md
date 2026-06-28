@@ -114,7 +114,6 @@ Three-layer architecture: RAG (Sentence-Transformers + FAISS) → DeepSeek candi
 |---|---|
 | **MCM/ICM 2026** | Bayesian hierarchical model (MCMC) for latent variable estimation. / 贝叶斯层次模型，MCMC 后验推断。 |
 | **CUMCM 2025** | IRODDPSO + constrained KMeans clustering + Monte Carlo error analysis. / 改进粒子群优化 + 约束聚类 + 蒙特卡洛误差分析。 |
-| **Lanqiao Cup 2025** | C/C++ track, Provincial Second Prize. / 蓝桥杯 C/C++ 赛道，省级二等奖。 |
 | **NCCCC 2025** | Deep learning for flower recognition (Transformer + CNN). / 深度学习花卉识别。 |
 
 ---
