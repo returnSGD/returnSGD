@@ -24,7 +24,7 @@ Reproduced P5 on T5 backbone for sequential recommendation, designed a POMDP-bas
 
 ## 🧩 Selected Projects / 项目经历
 
-| Project / 项目 | 简介 / Introduction |  | 链接 / link |
+| Project / 项目 | Introduction / 简介 |  | link / 链接 |
 |---------|------|----------|------|
 | OneTrans & MixFormer: Unified Recommendation via Transformer 针对大规模数据推荐的序列建模与特征交互统一化推荐系统 | *Tencent Advertising Algorithm Competition × KDD Cup* — End-to-end single-stage recommendation unifying sequence modeling & feature interaction with Transformer, validated on million-scale interaction data.<br>*腾讯广告算法大赛 × KDD Cup* — 统一 Transformer 架构将序列建模与特征交互整合为端到端单阶段处理，在百万级交互数据上验证。 | Transformer | — |
 | Game Player Churn Prediction & Persona Platform `2025.3–4`游戏玩家流失预测与用户画像分析平台 | *National E-commerce "Three-Creation" Competition* — XGBoost churn prediction + KMeans persona clustering + BERT sentiment analysis on 46K reviews.<br>*第十六届全国大学生电子商务"三创赛"* — XGBoost 流失预测 + KMeans 用户画像 + BERT 情感分析。 | XGBoost, KMeans, BERT | [Repo / 仓库](https://github.com/returnSGD/User_growth_monitoring) |
@@ -36,7 +36,7 @@ Reproduced P5 on T5 backbone for sequential recommendation, designed a POMDP-bas
 
 ## 🤝 Open Source Contributions / 社区贡献
 
-| Project / 项目 | Stars | Contribution / 贡献 |
+| Project / 项目 | ✨ / Stars | Contribution / 贡献 |
 |---|---|---|
 | [LightRAG](https://github.com/HKUDS/LightRAG/pull/3269) | 36.6K | Refactored NDJSON streaming parser, fixed stream error bug. **Merged.** / 重构 NDJSON 流式解析模块，修复流错误分类 Bug。**已合并。** |
 | [TensorTrade](https://github.com/tensortrade-org/tensortrade/pull/499) | 6.3K | Added short-selling support to OMS & Action Schemes. **Submitted.** / 为 OMS 和 Action Schemes 添加做空支持。**已提交。** |
