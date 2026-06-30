@@ -3,98 +3,70 @@
 **Data Science & Big Data Technology** @ University of Jinan (2024–2028)
 **数据科学与大数据技术** · 济南大学 (2024–2028)
 
-I build things at the intersection of **recommendation systems**, **user growth**, and **AI agents**. My work spans from research to production — training LLM-based recommenders, shipping open-source PRs to projects with 190K+ stars, and competing in mathematical modeling contests.
-我的兴趣方向是**推荐系统**、**用户增长**与 **AI Agent**，工作覆盖从科研到工程——训练 LLM 推荐模型、向 19 万 Star 级项目提交 PR、参加数学建模竞赛。
+I build things at the intersection of **recommendation systems**, **user growth**, and **AI agents**. My work spans from research to production — training LLM-based recommenders, shipping open-source PRs to projects with 190K+ stars positively.
+我的兴趣方向是**推荐系统**、**用户增长**与 **AI Agent**，工作覆盖从科研到工程——训练 LLM 推荐模型、并积极向 19 万 Star 级项目提交 PR。
 
----
 
 ## 🛠 Tech Stack / 技术栈
 
-`Python` `C/C++` `TypeScript` `PyTorch` `Transformers` `Scikit-learn` `XGBoost` `LangChain` `FAISS` `FastAPI` `Electron` `React` `Docker` `Git`
+`Python` `C/C++` `TypeScript` `PyTorch` `Transformers` `Scikit-learn` `XGBoost` `LangChain` `FAISS` `FastAPI`
 
----
 
 ## 🔬 Research / 科研经历
 
-**LLM-Enhanced Recommendation with P5 + Reinforcement Learning + Memory** `2025.5–至今`
-**LLM 增强推荐系统研究（P5 + 强化学习 + 记忆架构）**
+**LLM-Enhanced Recommendation with P5 + Reinforcement Learning + Memory** LLM 增强推荐系统研究（P5 + 强化学习 + 记忆架构）
 
 Reproduced P5 on T5 backbone for sequential recommendation, designed a POMDP-based RL policy network with FAISS long/short-term memory to replace Beam Search, and proposed a lightweight co-occurrence matrix embedding method.
 基于 T5 复现 P5 推荐框架，设计 POMDP 强化学习策略网络结合 FAISS 长短期记忆系统，提出轻量级共现矩阵 Embedding 方案。
 
 - [Repo / 仓库](https://github.com/returnSGD/LLMRec_recommendation)
 
----
 
 ## 🧩 Selected Projects / 项目经历
 
-### OneTrans & MixFormer: Unified Recommendation via Transformer `2026.3–5`
-### 针对大规模数据推荐的序列建模与特征交互统一化推荐系统
+### OneTrans & MixFormer: Unified Recommendation via Transformer 针对大规模数据推荐的序列建模与特征交互统一化推荐系统
 
 *Tencent Advertising Algorithm Competition × KDD Cup* — End-to-end single-stage recommendation unifying sequence modeling & feature interaction with Transformer, validated on million-scale interaction data.
 *腾讯广告算法大赛 × KDD Cup* — 统一 Transformer 架构将序列建模与特征交互整合为端到端单阶段处理，在百万级交互数据上验证。
 
----
 
-### Game Player Churn Prediction & Persona Platform `2025.3–4`
-### 游戏玩家流失预测与用户画像分析平台
+### Game Player Churn Prediction & Persona Platform `2025.3–4`游戏玩家流失预测与用户画像分析平台
 
 *National E-commerce "Three-Creation" Competition* — XGBoost churn prediction + KMeans persona clustering + BERT sentiment analysis on 46K reviews.
 *第十六届全国大学生电子商务"三创赛"* — XGBoost 流失预测 + KMeans 用户画像 + BERT 情感分析。
 
 - [Repo / 仓库](https://github.com/returnSGD/User_growth_monitoring)
 
----
 
-### Claude MD Editor — AI-Powered Desktop Markdown Editor `2026.5`
-### Claude MD Editor：AI 驱动的桌面 Markdown 编辑器
+### Claude MD Editor — AI-Powered Desktop Markdown Editor Claude MD Editor：AI 驱动的桌面 Markdown 编辑器
 
 Electron + React + TypeScript desktop app with CodeMirror 6, KaTeX, Mermaid, and embedded Claude Code AI terminal. One-click export to HTML/PDF/DOCX/image.
 Electron + React + TypeScript 桌面应用，集成 CodeMirror 6、KaTeX、Mermaid，内嵌 Claude Code AI 终端，一键导出。
 
 - [Repo / 仓库](https://github.com/returnSGD/claude-md)
 
----
-
-### arXiv MCP Server with DeepSeek Translation `2026.4`
-### 接入 DeepSeek 的 arXiv 个性化检索 MCP 服务
+### arXiv MCP Server with DeepSeek Translation 接入 DeepSeek 的 arXiv 个性化检索 MCP 服务
 
 MCP-protocol academic search with Chinese→English translation, arXiv retrieval, and semantic re-ranking. FastAPI + fastapi-mcp SSE endpoint.
 基于 MCP 协议的学术检索服务，中文翻译→arXiv 检索→语义重排序，FastAPI + fastapi-mcp SSE 端点。
 
 - [Repo / 仓库](https://github.com/returnSGD/arxiv_MCP)
 
----
 
-### AI Customer Service with LoRA + RAG + LLM `2025.3–4`
-### 集成 LoRA 微调、RAG 检索与大模型的智能对话 AI 客服系统
+### AI Customer Service with LoRA + RAG + LLM 集成 LoRA 微调、RAG 检索与大模型的智能对话 AI 客服系统
 
 Three-layer architecture: RAG (Sentence-Transformers + FAISS) → DeepSeek candidate generation → LoRA-tuned MacBERT for reply ranking.
 "RAG 知识检索 → DeepSeek 候选回复 → LoRA 排序"三层智能客服架构。
 
 - [Repo / 仓库](https://github.com/returnSGD/AI_customer_service)
 
----
-
-### Cat Language System for "Whispers of the Heart" 🐱 `2026.4–至今`
-### 腾讯游戏创作大赛作品《猫语心声》猫咪 AI 决策控制与语言系统
+### Cat Language System for "Whispers of the Heart" 腾讯游戏创作大赛作品《猫语心声》猫咪 AI 决策控制与语言系统
 
 *Tencent Game Creation Competition* — Three-tier cat AI: RL strategy layer + custom behavior tree engine + local DeepSeek-R1-Distill-Qwen-1.5B for emotional monologues.
 *腾讯游戏创作大赛* — 猫咪 RL 策略层 + 自研行为树引擎 + 本地 DeepSeek 1.5B 语言模型三层架构。
 
 - [Repo / 仓库](https://github.com/returnSGD/TGA2026/tree/main/cat_control)
 
----
-
-### GameGPT: Ensemble Learning for Player Decision Prediction `2026.5`
-### 基于集成学习和长时序上下文的 GameGPT 玩家决策预测系统
-
-55-dim features from 289K game log samples, XGBoost + Random Forest + GBDT soft voting ensemble for player intent & action prediction.
-从 28 万+ 游戏日志样本提取 55 维特征，XGBoost + Random Forest + GBDT 软投票集成。
-
-- [Repo / 仓库](https://github.com/returnSGD/TGA2026)
-
----
 
 ## 🤝 Open Source Contributions / 社区贡献
 
@@ -106,17 +78,6 @@ Three-layer architecture: RAG (Sentence-Transformers + FAISS) → DeepSeek candi
 | [AI_HR_Project](https://github.com/Begapunk/AI_HR_project/pull/3) | — | Batch resume screening pipeline with LLM scoring. **Merged.** / 批量简历筛选模块，LLM 多维评分排序。**已合并。** |
 | [WeMD](https://github.com/tenngoxars/WeMD/pull/82) | — | Removed hardcoded font-size in table renderer. **Merged.** / 移除表格渲染器硬编码字体大小。**已合并。** |
 
----
-
-## 🏆 Competitions / 竞赛经历
-
-| Competition / 竞赛 | Description / 简介 |
-|---|---|
-| **MCM/ICM 2026** | Bayesian hierarchical model (MCMC) for latent variable estimation. / 贝叶斯层次模型，MCMC 后验推断。 |
-| **CUMCM 2025** | IRODDPSO + constrained KMeans clustering + Monte Carlo error analysis. / 改进粒子群优化 + 约束聚类 + 蒙特卡洛误差分析。 |
-| **NCCCC 2025** | Deep learning for flower recognition (Transformer + CNN). / 深度学习花卉识别。 |
-
----
 
 ## 💬 技术交流 / 闲聊群
 
