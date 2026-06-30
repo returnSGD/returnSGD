@@ -24,48 +24,14 @@ Reproduced P5 on T5 backbone for sequential recommendation, designed a POMDP-bas
 
 ## 🧩 Selected Projects / 项目经历
 
-### OneTrans & MixFormer: Unified Recommendation via Transformer 针对大规模数据推荐的序列建模与特征交互统一化推荐系统
-
-*Tencent Advertising Algorithm Competition × KDD Cup* — End-to-end single-stage recommendation unifying sequence modeling & feature interaction with Transformer, validated on million-scale interaction data.
-*腾讯广告算法大赛 × KDD Cup* — 统一 Transformer 架构将序列建模与特征交互整合为端到端单阶段处理，在百万级交互数据上验证。
-
-
-### Game Player Churn Prediction & Persona Platform `2025.3–4`游戏玩家流失预测与用户画像分析平台
-
-*National E-commerce "Three-Creation" Competition* — XGBoost churn prediction + KMeans persona clustering + BERT sentiment analysis on 46K reviews.
-*第十六届全国大学生电子商务"三创赛"* — XGBoost 流失预测 + KMeans 用户画像 + BERT 情感分析。
-
-- [Repo / 仓库](https://github.com/returnSGD/User_growth_monitoring)
-
-
-### Claude MD Editor — AI-Powered Desktop Markdown Editor Claude MD Editor：AI 驱动的桌面 Markdown 编辑器
-
-Electron + React + TypeScript desktop app with CodeMirror 6, KaTeX, Mermaid, and embedded Claude Code AI terminal. One-click export to HTML/PDF/DOCX/image.
-Electron + React + TypeScript 桌面应用，集成 CodeMirror 6、KaTeX、Mermaid，内嵌 Claude Code AI 终端，一键导出。
-
-- [Repo / 仓库](https://github.com/returnSGD/claude-md)
-
-### arXiv MCP Server with DeepSeek Translation 接入 DeepSeek 的 arXiv 个性化检索 MCP 服务
-
-MCP-protocol academic search with Chinese→English translation, arXiv retrieval, and semantic re-ranking. FastAPI + fastapi-mcp SSE endpoint.
-基于 MCP 协议的学术检索服务，中文翻译→arXiv 检索→语义重排序，FastAPI + fastapi-mcp SSE 端点。
-
-- [Repo / 仓库](https://github.com/returnSGD/arxiv_MCP)
-
-
-### AI Customer Service with LoRA + RAG + LLM 集成 LoRA 微调、RAG 检索与大模型的智能对话 AI 客服系统
-
-Three-layer architecture: RAG (Sentence-Transformers + FAISS) → DeepSeek candidate generation → LoRA-tuned MacBERT for reply ranking.
-"RAG 知识检索 → DeepSeek 候选回复 → LoRA 排序"三层智能客服架构。
-
-- [Repo / 仓库](https://github.com/returnSGD/AI_customer_service)
-
-### Cat Language System for "Whispers of the Heart" 腾讯游戏创作大赛作品《猫语心声》猫咪 AI 决策控制与语言系统
-
-*Tencent Game Creation Competition* — Three-tier cat AI: RL strategy layer + custom behavior tree engine + local DeepSeek-R1-Distill-Qwen-1.5B for emotional monologues.
-*腾讯游戏创作大赛* — 猫咪 RL 策略层 + 自研行为树引擎 + 本地 DeepSeek 1.5B 语言模型三层架构。
-
-- [Repo / 仓库](https://github.com/returnSGD/TGA2026/tree/main/cat_control)
+| Project / 项目 | 简介 / Introduction |  | 链接 / link |
+|---------|------|----------|------|
+| OneTrans & MixFormer: Unified Recommendation via Transformer 针对大规模数据推荐的序列建模与特征交互统一化推荐系统 | *Tencent Advertising Algorithm Competition × KDD Cup* — End-to-end single-stage recommendation unifying sequence modeling & feature interaction with Transformer, validated on million-scale interaction data.<br>*腾讯广告算法大赛 × KDD Cup* — 统一 Transformer 架构将序列建模与特征交互整合为端到端单阶段处理，在百万级交互数据上验证。 | Transformer | — |
+| Game Player Churn Prediction & Persona Platform `2025.3–4`游戏玩家流失预测与用户画像分析平台 | *National E-commerce "Three-Creation" Competition* — XGBoost churn prediction + KMeans persona clustering + BERT sentiment analysis on 46K reviews.<br>*第十六届全国大学生电子商务"三创赛"* — XGBoost 流失预测 + KMeans 用户画像 + BERT 情感分析。 | XGBoost, KMeans, BERT | [Repo / 仓库](https://github.com/returnSGD/User_growth_monitoring) |
+| Claude MD Editor — AI-Powered Desktop Markdown Editor Claude MD Editor：AI 驱动的桌面 Markdown 编辑器 | Electron + React + TypeScript desktop app with CodeMirror 6, KaTeX, Mermaid, and embedded Claude Code AI terminal. One-click export to HTML/PDF/DOCX/image.<br>Electron + React + TypeScript 桌面应用，集成 CodeMirror 6、KaTeX、Mermaid，内嵌 Claude Code AI 终端，一键导出。 | Electron, React, TypeScript, CodeMirror 6, KaTeX, Mermaid | [Repo / 仓库](https://github.com/returnSGD/claude-md) |
+| arXiv MCP Server with DeepSeek Translation 接入 DeepSeek 的 arXiv 个性化检索 MCP 服务 | MCP-protocol academic search with Chinese→English translation, arXiv retrieval, and semantic re-ranking. FastAPI + fastapi-mcp SSE endpoint.<br>基于 MCP 协议的学术检索服务，中文翻译→arXiv 检索→语义重排序，FastAPI + fastapi-mcp SSE 端点。 | FastAPI, fastapi-mcp SSE | [Repo / 仓库](https://github.com/returnSGD/arxiv_MCP) |
+| AI Customer Service with LoRA + RAG + LLM 集成 LoRA 微调、RAG 检索与大模型的智能对话 AI 客服系统 | Three-layer architecture: RAG (Sentence-Transformers + FAISS) → DeepSeek candidate generation → LoRA-tuned MacBERT for reply ranking.<br>"RAG 知识检索 → DeepSeek 候选回复 → LoRA 排序"三层智能客服架构。 | RAG (Sentence-Transformers, FAISS), DeepSeek, LoRA, MacBERT | [Repo / 仓库](https://github.com/returnSGD/AI_customer_service) |
+| Cat Language System for "Whispers of the Heart" 腾讯游戏创作大赛作品《猫语心声》猫咪 AI 决策控制与语言系统 | *Tencent Game Creation Competition* — Three-tier cat AI: RL strategy layer + custom behavior tree engine + local DeepSeek-R1-Distill-Qwen-1.5B for emotional monologues.<br>*腾讯游戏创作大赛* — 猫咪 RL 策略层 + 自研行为树引擎 + 本地 DeepSeek 1.5B 语言模型三层架构。 | RL, behavior tree, DeepSeek-R1-Distill-Qwen-1.5B | [Repo / 仓库](https://github.com/returnSGD/TGA2026/tree/main/cat_control) |
 
 
 ## 🤝 Open Source Contributions / 社区贡献
