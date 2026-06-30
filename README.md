@@ -50,3 +50,5 @@ Reproduced P5 on T5 backbone for sequential recommendation, designed a POMDP-bas
 技术交流/闲聊群如下（2026.7.5失效）：
 
 <img src="二维码.jpg" alt="群二维码" width="300">
+
+最后说一句，安魂曲可爱捏🍅🍅🍅
