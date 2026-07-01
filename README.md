@@ -1,7 +1,7 @@
 # Hi there, I'm Xu Zheng (许政) 👋
 
-**Data Science & Big Data Technology** @ University of Jinan (2024–2028)
-**数据科学与大数据技术** · 济南大学 (2024–2028)
+**Data Science & Big Data Technology** @ University of Jinan (undergraduate，2024–2028)
+**数据科学与大数据技术** · 济南大学 (本科，2024–2028)
 
 I build things at the intersection of **recommendation systems**, **user growth**, and **AI agents**. My work spans from research to production — training LLM-based recommenders, shipping open-source PRs to projects with 190K+ stars positively.
 我的兴趣方向是**推荐系统**、**用户增长**与 **AI Agent**，工作覆盖从科研到工程——训练 LLM 推荐模型、并积极向 19 万 Star 级项目提交 PR。
