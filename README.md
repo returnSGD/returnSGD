@@ -38,9 +38,9 @@ Reproduced P5 on T5 backbone for sequential recommendation, designed a POMDP-bas
 
 | Project / 项目 | ✨ / Stars | Contribution / 贡献 |
 |---|---|---|
+| [n8n](https://github.com/n8n-io/n8n/pull/32629) | 193K | Fixed v2.24.0 regression crash in Form Trigger node. **Merged.** / 修复 Form Trigger 节点回归崩溃 Bug。**已合并。** |
 | [LightRAG](https://github.com/HKUDS/LightRAG/pull/3269) | 36.6K | Refactored NDJSON streaming parser, fixed stream error bug. **Merged.** / 重构 NDJSON 流式解析模块，修复流错误分类 Bug。**已合并。** |
 | [TensorTrade](https://github.com/tensortrade-org/tensortrade/pull/499) | 6.3K | Added short-selling support to OMS & Action Schemes. **Submitted.** / 为 OMS 和 Action Schemes 添加做空支持。**已提交。** |
-| [n8n](https://github.com/n8n-io/n8n/pull/32629) | 193K | Fixed v2.24.0 regression crash in Form Trigger node. **Merged.** / 修复 Form Trigger 节点回归崩溃 Bug。**已合并。** |
 | [AI_HR_Project](https://github.com/Begapunk/AI_HR_project/pull/3) | — | Batch resume screening pipeline with LLM scoring. **Merged.** / 批量简历筛选模块，LLM 多维评分排序。**已合并。** |
 | [WeMD](https://github.com/tenngoxars/WeMD/pull/82) | — | Removed hardcoded font-size in table renderer. **Merged.** / 移除表格渲染器硬编码字体大小。**已合并。** |
 
